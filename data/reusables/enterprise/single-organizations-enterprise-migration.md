@@ -1,0 +1,3 @@
+> [!NOTE] Starting September 3, 2024, {% data variables.product.prodname_ghe_cloud %} customers who use a single organization will be automatically upgraded to an enterprise account at no additional cost.
+
+<!-- When this note expires, replace "Starting September 3, 2024" with something like "Currently" and adjust the expiry date in the articles to be a future date when we want to remove it entirely. -->
